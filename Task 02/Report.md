@@ -6,6 +6,7 @@
 ![Второй диск](https://raw.githubusercontent.com/rishat19/OS-ITIS/main/Task%2002/Screenshots/01.png)
 
 Подключение к локальной виртуальной машине Linux по SSH:
+
 `ssh -l rishat -p 2222 127.0.0.1`
 
 Переход в пользователя root:
